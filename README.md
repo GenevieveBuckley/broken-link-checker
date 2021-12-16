@@ -29,3 +29,10 @@ Individual Github user pages
 - https://github.com/nclack
 - https://github.com/tlambert03
 - https://github.com/andy-sweet
+
+Images
+- ![image 1](https://napari.org/images/page-customization/opengraph-example.png)
+- ![image 2](https://napari.org/images/page-customization/intro.png)
+- ![image jpeg](https://napari.org/images/page-customization/intro.jpg)
+
+https://napari.org/napari/page.html
