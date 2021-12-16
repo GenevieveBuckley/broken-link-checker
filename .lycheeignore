@@ -11,3 +11,5 @@ github.com/.*/.*$
 **.tif
 **.jpg
 **.jpeg
+
+http://localhost:8080/
