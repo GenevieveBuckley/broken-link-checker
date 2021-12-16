@@ -6,3 +6,8 @@ http://.*
 github.com/.*/.*$
 ^file.*
 @ 
+
+*.png
+*.tif
+*.jpg
+*.jpeg
